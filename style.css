@@ -9,21 +9,6 @@ body {
 	background-color: #FFFFFF;
 }
 
-h5 {
-	font-size: 30px;
-	text-align: center;
-	margin: 0 20% 20px 20%;
-	padding-bottom: 1px;
-	border-bottom: 2px solid #3C83D9;
-}
-
-h2 {
-	font-size: 30px;
-	text-align: center;
-	margin: 0 20% 20px 20%;
-	padding: 10px 10% 10px 10%;
-}
-
 nav {
 	background-color: #FFBE00;
 }
@@ -32,6 +17,8 @@ nav {
 	display: inline-block;
 	font-size: 40px;
 	color: #66B2FF;
+	color: #805224;
+	color: #80ABE2;
 	background-color: #FFFFFF;
 	cursor: pointer;
 	text-decoration: none;
@@ -88,15 +75,6 @@ h1 {
 .p {
 	color: #FFFFFF;
 	font-size: 35px;
-}
-
-.h2 {
-	font-size: 21px;
-	text-align: center;
-	margin: 0 30% 20px 30%;
-	padding-bottom: 15px;
-	padding-left: center;
-	border-bottom: 2px solid #FFBE00;
 }
 
 .img {
