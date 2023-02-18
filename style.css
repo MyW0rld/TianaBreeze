@@ -16,8 +16,6 @@ nav {
 .menue {
 	display: inline-block;
 	font-size: 40px;
-	color: #66B2FF;
-	color: #805224;
 	color: #80ABE2;
 	background-color: #FFFFFF;
 	cursor: pointer;
@@ -29,7 +27,7 @@ nav {
 }
 
 .menue:hover {
-	background-color: #61A492;
+	background-color: #80ABE2;
 	color: #FFFFFF;
 	cursor: pointer;
 }
