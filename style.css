@@ -25,7 +25,7 @@
 }
 
 body {
-  background: url(back.png);
+  background: url(back.webp);
   background-size: 100%;
 }
 
@@ -157,7 +157,7 @@ h1 {
 
 @media (max-width: 1000px) {
   body {
-    background: url(back.png);
+    background: url(back.webp);
   }
 
   .menue1 {
