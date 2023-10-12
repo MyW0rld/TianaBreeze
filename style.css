@@ -110,7 +110,22 @@ h1 {
   -webkit-transition: all 0.7s ease;
   transition: all 0.7s ease;
   border-radius: 15px;
-  padding: 2% 21.3%;
+  padding: 2% 21.5%;
+  margin: 0 0 3% 23.5%;
+}
+
+.menue5 {
+  display: inline-block;
+  font-size: 20px;
+  color: #80abe2;
+  background-color: #ffffff;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  -webkit-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+  border-radius: 15px;
+  padding: 2% 21%;
   margin: 0 0 3% 23.5%;
 }
 
@@ -125,7 +140,7 @@ h1 {
   -webkit-transition: all 0.7s ease;
   transition: all 0.7s ease;
   border-radius: 15px;
-  padding: 2% 19%;
+  padding: 2% 18.5%;
   margin: 0 0 3% 23.5%;
 }
 
@@ -216,7 +231,22 @@ h1 {
     -webkit-transition: all 0.7s ease;
     transition: all 0.7s ease;
     border-radius: 15px;
-    padding: 4% 34.5%;
+    padding: 4% 34%;
+    margin: 0 0 10% 8%;
+  }
+
+  .menue5 {
+    display: inline-block;
+    font-size: 40px;
+    color: #80abe2;
+    background-color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+    border-radius: 15px;
+    padding: 4% 33%;
     margin: 0 0 10% 8%;
   }
 
@@ -231,7 +261,7 @@ h1 {
     -webkit-transition: all 0.7s ease;
     transition: all 0.7s ease;
     border-radius: 15px;
-    padding: 4% 25.5%;
+    padding: 4% 25%;
     margin: 0 0 10% 8%;
   }
 
